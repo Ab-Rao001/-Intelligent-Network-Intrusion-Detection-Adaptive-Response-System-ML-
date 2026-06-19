@@ -1,0 +1,11 @@
+2026-06-16 11:14:07 | CyberSecurityApp | INFO | PCA fit successful. Transformed shape: (20000, 3)
+2026-06-16 11:15:12 | CyberSecurityApp | INFO | Elbow method computation completed successfully.
+2026-06-16 11:15:25 | CyberSecurityApp | INFO | Elbow method computation completed successfully.
+2026-06-16 11:15:31 | CyberSecurityApp | INFO | Elbow method computation completed successfully.
+2026-06-16 11:15:41 | CyberSecurityApp | INFO | K-Means fit successful. Silhouette: 0.5778
+2026-06-16 11:28:18 | CyberSecurityApp | INFO | ANN training completed successfully.
+2026-06-16 13:22:54 | CyberSecurityApp | INFO | PCA fit successful. Transformed shape: (20000, 3)
+2026-06-16 13:31:06 | CyberSecurityApp | INFO | Elbow method computation completed successfully.
+2026-06-16 13:31:13 | CyberSecurityApp | INFO | Elbow method computation completed successfully.
+2026-06-16 13:31:24 | CyberSecurityApp | INFO | K-Means fit successful. Silhouette: 0.5778
+2026-06-16 13:32:50 | CyberSecurityApp | INFO | ANN training completed successfully.
